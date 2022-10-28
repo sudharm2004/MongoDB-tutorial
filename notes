@@ -1,0 +1,16 @@
+Mongo DB is a NOSQL database.
+NOSQL database means data is not stored in particular structure.
+NOSQL databases are more flexible to unexpected data.
+
+In mongo db data is stored in collections
+collections don't have rows and columns, data is stored in form of object.
+
+We can connect more than database in node js
+
+While using updateOne if there are more than one records/documents in database that matches the given condition then only first one will match.
+Use updateMany to update all the records.
+
+get->Get data from the server
+post->save data to server
+put->update data in the server
+delete->delete data in the server
